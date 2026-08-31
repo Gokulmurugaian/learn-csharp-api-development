@@ -1,0 +1,21 @@
+# level-01-csharp-basics
+
+Lesson index:
+- 01-variables.md
+- 02-data-types.md
+- 03-operators.md
+- 04-conditions.md
+- 05-loops.md
+- 06-methods.md
+- 07-arrays.md
+- 08-lists.md
+- 09-dictionaries.md
+- 10-classes.md
+- 11-objects.md
+- 12-constructors.md
+- 13-properties.md
+- 14-interfaces.md
+- 15-inheritance.md
+- 16-exception-handling.md
+- 17-linq.md
+- 18-async-and-await.md
